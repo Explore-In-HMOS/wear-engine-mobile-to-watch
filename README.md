@@ -117,7 +117,7 @@ AuthManager
 - [Wear Engine SDK](https://developer.huawei.com/consumer/en/doc/connectivity-Guides/integrating-phone-sdk-0000001051137958)
 - Paired Huawei wearable
 - Device Manager permissions
-- Configured peer fingerprints (lite wearable or smart wearable)
+- Configured peer fingerprints (SportWatch/Lite Wearable or smart wearable)
 
 # LICENSE
 [Mobile to Watch] WearEngine Message & File Send/Receiver is distributed under the terms of the MIT License.
